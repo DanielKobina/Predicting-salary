@@ -1,3 +1,3 @@
 # predicting-salary
 
-more to come soon!
+An introductory project, where I devled into data cleansing and data analysis.
